@@ -26,6 +26,12 @@ The idea of the design is to constantly measure the water level of the soil and 
 ## Schematic of the design
 ![Schematic of the design from tinkercad](https://raw.githubusercontent.com/hyaqua/Robotika1/refs/heads/main/assets/Automatic%20plant%20watering_page-0001.jpg)
 
+# Demo video
+
+https://github.com/user-attachments/assets/d5978cfe-7f8f-4e10-a794-103744b8ffb3
+
+
+
 # Encountered problems
 - Servo doesn't sit at a perfect 0 degrees, but this problem can be solved by placing the valve in such a way that it's closed even though the servo is rotated somewhat.
 - Water sensor sends low signal when wet and high signal when dry, which is opposite from the servo which when open has a higher signal and when closed has a lower signal, but using map this problem can be solved by reversing the numbers from the signal.
