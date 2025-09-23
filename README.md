@@ -30,7 +30,7 @@ The idea of the design is to constantly measure the water level of the soil and 
 
 https://github.com/user-attachments/assets/d5978cfe-7f8f-4e10-a794-103744b8ffb3
 
-
+Demo video can be found inside the assets folder
 
 # Encountered problems
 - Servo doesn't sit at a perfect 0 degrees, but this problem can be solved by placing the valve in such a way that it's closed even though the servo is rotated somewhat.
