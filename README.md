@@ -31,7 +31,7 @@ The idea of the design is to constantly monitor a plants soil's moistness and te
 ![Tinkercad Design](https://raw.githubusercontent.com/hyaqua/Robotika1/refs/heads/main/assets/Robotika1_from_tinkercad.png)
 
 ## Schematic of the design
-![Schematic of the design from tinkercad](https://raw.githubusercontent.com/hyaqua/Robotika1/refs/heads/main/assets/Automatic%20plant%20watering_page-0001.jpg)
+![Schematic of the design from tinkercad](https://raw.githubusercontent.com/hyaqua/Robotika1/refs/heads/main/assets/Automatic%20plant%20watering_page-0001.png)
 
 # Demo video
 
