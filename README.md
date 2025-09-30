@@ -35,7 +35,7 @@ The idea of the design is to constantly monitor a plants soil's moistness and te
 
 # Demo video
 
-https://github.com/user-attachments/assets/d5978cfe-7f8f-4e10-a794-103744b8ffb3
+https://github.com/user-attachments/assets/d0ae573b-9af6-4fd3-a6fe-22ee320aa0e0
 
 Demo video can be found inside the assets folder
 
